@@ -10,14 +10,14 @@ Currently, I am expanding my skills through the #90DaysOfDevOps challenge, build
 💬 Talk to me about Linux administration, Git workflows, automation scripts, and CIDR subnetting.
 📫 How to reach me: Drop me a connection request on LinkedIn or email me!
 🛠️ Core Tech Stack & Tools
-Linux
-Linux	Bash
-Bash/Shell	Git
-Git	GitHub
-GitHub	Python
-Python	Nginx
-Nginx	AWS
-AWS
+- Linux
+- Linux	Bash
+- Bash/Shell	Git
+- Git	GitHub
+- GitHub	Python
+- Python	Nginx
+- Nginx	AWS
+- AWS
 📂 Featured Repositories
 📁 90DaysOfDevOps: My main repository tracking my daily progress through Shubham Londhe's 90 Days DevOps challenge. Includes daily notes, assignments, and exercises.
 📜 shell-scripts: A dedicated repo compiling robust, production-ready shell scripts (system monitoring, database backup, automated log rotations, and arguments validation).
